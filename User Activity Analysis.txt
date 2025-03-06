@@ -18,3 +18,9 @@ Analytical Questions:
 6. Which users have had a session every single day since their first login?
 
 7. On what dates were there no logins at all?
+
+8. HOW MANY MONTHLY ACTIVE USERS TILL LAST MONTH?  OR DAILY ACTIVE USERS
+
+9. HOW MANY LOGINS EACH USER DID OVER THE TIME 
+
+10. IDENTIFIES FIRST TIME USERS AND RETURNING USERS
